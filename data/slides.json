@@ -9,7 +9,7 @@
     "lien": "https://github.com/mence-steven/projet6"
   },
   {
-    "image": "./assets/imgSlide/kasaO.webp",
+    "image": "./assets/imgSlide/KasaO.webp",
     "titre": "Kasa",
     "description": "Développer une application web de location immobilière avec React",
     "presentation": "Kasa est un site de location d'appartements entre particuliers en France.",
