@@ -1,0 +1,38 @@
+[
+  {
+    "image": "../assets/imgSlide/sophiebluelO.png",
+    "titre": "Sophie Bluel",
+    "description": "Dynamiser un portfolio en le rendant interactif grâce à JavaScript",
+    "presentation": "Sophie Bluel est une architecte d'intérieur spécialisée dans les projets de rénovation.",
+    "objectif": "Mon rôle était de rendre une page Web dynamique.",
+    "langages et outils": ["HTML", "CSS", "JavaScript", "Figma"],
+    "lien": "https://github.com/mence-steven/projet6"
+  },
+  {
+    "image": "assets/imgSlide/kasaO.png",
+    "titre": "Kasa",
+    "description": "Développer une application web de location immobilière avec React",
+    "presentation": "Kasa est un site de location d'appartements entre particuliers en France.",
+    "objectif": "Mon rôle était de me familiariser avec les principes de React et Node.js.",
+    "langages et outils": ["HTML", "CSS", "SASS", "React", "Node.js"],
+    "lien": "https://github.com/mence-steven/projet-7/tree/main"
+  },
+  {
+    "image": "assets/imgSlide/argentbankO.PNG",
+    "titre": "Argent Bank",
+    "description": "Implémenter le front-end d'une application bancaire avec React",
+    "presentation": "ArgentBank est une nouvelle banque en ligne qui souhaite percer dans le secteur bancaire.",
+    "objectif": "Mon rôle est de favoriser l'échange entre le front-end et le back-end, en intégrant le front-end en utilisant React et Redux.",
+    "langages et outils": ["React", "Redux", "Appels API"],
+    "lien": "https://github.com/mence-steven/projet-10"
+  },
+  {
+    "image": "assets/imgSlide/724eventsO.PNG",
+    "titre": "724 Events",
+    "description": "Déboguer le site d'une agence d'événementiel",
+    "presentation": "724 Events est une agence d'événementiel.",
+    "objectif": "Mon rôle consistait à déboguer le site, le rendre plus performant et favoriser son référencement sur les recherches Google.",
+    "langages et outils": ["React Dev Tools", "Wave", "Google Rich"],
+    "lien": "https://github.com/mence-steven/724Events"
+  }
+]
